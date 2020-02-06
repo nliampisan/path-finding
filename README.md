@@ -16,3 +16,7 @@ If you want to run your app locally in the production mode, run `mvn jetty:run -
 
 For a full Vaadin application example, there are more choices available also from [vaadin.com/start](https://vaadin.com/start) page.
 
+# Notes: 
+This was a two person project. My partner focused on the front end and creating the maze, while I wrote the shortest path algorithms: Depth First Search, Breadth First Search, Greedy Best First Search, A* Search 
+
+![error]()
