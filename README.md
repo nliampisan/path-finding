@@ -19,4 +19,11 @@ For a full Vaadin application example, there are more choices available also fro
 # Notes: 
 This was a two person project. My partner focused on the front end and creating the maze, while I wrote the shortest path algorithms: Depth First Search, Breadth First Search, Greedy Best First Search, A* Search 
 
-![error]()
+![error](https://github.com/nliampisan/path-finding/blob/master/DFS_img.png)
+
+![error](https://github.com/nliampisan/path-finding/blob/master/BFS_img.png)
+
+![error](https://github.com/nliampisan/path-finding/blob/master/Greedy_img.png)
+
+![error](https://github.com/nliampisan/path-finding/blob/master/Astar_img.png)
+
